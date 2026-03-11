@@ -1,0 +1,10 @@
+{
+  "name": "pokemon-pokedex",
+  "description": "Complete Pokemon Pokedex for Claude Code. Covers all 1,025 Pokemon across Generations 1–9 with base stats, abilities, moves, type matchups, and species data. Perfect for Pokedex lookups, Pokemon app development, battle logic, and data analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Labat"
+  },
+  "homepage": "https://github.com/SNLabat/Pokemon-Pokedex-Plugin",
+  "license": "MIT"
+}
