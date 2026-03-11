@@ -1,5 +1,5 @@
 ---
-name: pokedex
+name: pokemon-pokedex
 description: >
   Comprehensive Pokemon Pokedex skill covering all 1,025 Pokemon across Generations 1–9.
   Use this skill whenever the user asks anything about Pokemon — even casually.
