@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "pokemon-pokedex",
-      "source": "./pokemon-pokedex-plugin",
+      "source": "../skills/pokedex",
       "description": "Complete Pokemon Pokedex for Claude Code. Covers all 1,025 Pokemon across Generations 1–9 with base stats, abilities, moves, type matchups, and species data.",
       "version": "1.0.0",
       "author": {
